@@ -8,8 +8,5 @@ bbbbbbbbb
 bbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbb
-bbbbbbbbbbbbbbbbbbbbbbbbbbvvvvvvvvvvvvv
-bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbvvvvvvvvvvvvvvvvvvvvvvvvvvvv
-bbbbbbbbbbvvvvvvvvv
-vvvvvvvvvvvvvv
+bbbbbbbbbbbbbbbbbbbbbb
 vvvvvvvvvvvvvv
